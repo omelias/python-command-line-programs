@@ -1,3 +1,5 @@
+# Guess the random generated number.
+
 import random
 
 # Generate random numbers
